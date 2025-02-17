@@ -55,7 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NahomT23/NahomT23/output/snake.svg" alt="Snake animation" />
 
 ###
 
